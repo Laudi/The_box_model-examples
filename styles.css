@@ -1,0 +1,99 @@
+h1 {
+    background-color: azure;
+    width: 300px;
+    height: 100px;
+}
+
+.first {
+    background-color: cornsilk;
+    width: 200px;
+}
+
+.second {
+    background-color: #f8f8ff;
+    height: 400px;
+}
+
+div {
+    width: 400px;
+    background-color: gray;
+}
+
+h2 {
+    font-size: 30px;
+    background-color: yellow;
+}
+
+.top {
+    font-size: 11px;
+}
+
+.main {
+    font-size: 14px;
+}
+
+.martyn {
+    background-color: cyan;
+    margin-bottom: 50px;
+}
+
+.bob {
+    background-color: cornsilk;
+    margin: 50px;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    width: 300px;
+    border: 2px solid black;
+}
+
+.card {
+    background-color: blueviolet;
+    font-family: 'Courier New', monospace;
+    border-radius: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    width: 330px;
+    height: 200px;
+}
+
+img {
+    width: 50px;
+    margin-top: 35px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    vertical-align: bottom;
+}
+
+.card-text {
+    color: white;
+    margin: 0 15px;
+}
+
+.number {
+    font-size: 25px;
+    color: white;
+    margin: 0 15px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    margin: 0 15px;
+    font-family: monospace;
+
+}
+
+.valid {
+    font-size: 9px;
+    font-family: Tahoma, sans-serif;
+    color: white;
+    margin-left: 15px;
+    margin-bottom: 0px;
+}
+
+.date {
+    font-family: Tahoma, sans-serif;
+    color: white;
+    margin: 0 15px;
+}
